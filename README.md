@@ -1,1 +1,2 @@
-# guildhubjson
+guildhubjson
+# Ignore this repository
